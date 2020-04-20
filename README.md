@@ -1,5 +1,5 @@
 # RecylerViewDemo
-MAD练习3,模拟抖音消息界面,点击每个Item跳转到新的界面并显示Item和编号
+MAD练习3,模拟抖音消息界面,点击每个Item跳转到新的界面并显示Item的编号
 
 ## RecyclerView简单使用步骤:
 
